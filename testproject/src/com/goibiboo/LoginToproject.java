@@ -1,5 +1,8 @@
 package com.goibiboo;
 
-public class LoginToproject {
+public class LoginToproject
+{
+ int i=0;	
+	
 
 }
